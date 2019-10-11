@@ -1,6 +1,8 @@
-# **_VivifyIdeas Expo boilerplate_**
+# expo-boilerplate
 
-Expo SDK version: **35.0.0**
+> 🌳📱 React Native boilerplate with Expo, Redux and Redux Saga.
+
+*Build on 🙏 [VivifyIdeas Expo boilerplate](https://github.com/Vivify-Ideas/expo-boilerplate)*
 
 ## **Built in functions**
 
